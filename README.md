@@ -17,7 +17,7 @@ Algunos otros servicios que ofrece la empresa incluyen:
 
 La clientela puede elegir entre un pago mensual o firmar un contrato de 1 o 2 años. Puede utilizar varios métodos de pago y recibir una factura electrónica después de una transacción.
 
-### Descripción de los datos
+### Descripción de los datos:
 
 Los datos consisten en archivos obtenidos de diferentes fuentes:
 
